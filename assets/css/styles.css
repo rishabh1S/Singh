@@ -371,8 +371,8 @@ img {
 .loader{
   position: relative;
   left: 5rem;
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
   animation: animates 24s steps(12) infinite;
 }
 @keyframes animates{
@@ -412,7 +412,7 @@ img {
   0 0 40px var(--title-color),
   0 0 50px var(--title-color);
   animation: animateSquare 2s linear infinite;
-  transform-origin: 75px;
+  transform-origin: 60px;
 }
 @keyframes animateSquare{
   0%,25%
