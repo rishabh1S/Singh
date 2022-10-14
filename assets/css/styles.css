@@ -977,7 +977,7 @@ img {
   color: #fff;
 }
 /*========== SCROLL UP ==========*/
-.scrollup{
+/* .scrollup{
   position: fixed;
   right: 1rem;
   bottom: -20%;
@@ -987,20 +987,20 @@ img {
   border-radius: .4rem;
   z-index: var(--z-tooltip);
   transition: .4s;
-}
+} */
 
-.scrollup:hover{
+/* .scrollup:hover{
   background-color: var(--first-color-alt);
-}
+} */
 
-.scrollup__icon{
+/* .scrollup__icon{
   font-size: 1.5rem;
   color: #fff;
-}
+} */
 /* Show scroll */
-.show-scroll{
+/* .show-scroll{
   bottom: 5rem;
-}
+} */
 
 /*========== SCROLL BAR ==========*/
 ::-webkit-scrollbar{
